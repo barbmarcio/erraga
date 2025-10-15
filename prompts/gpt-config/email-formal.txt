@@ -1,0 +1,34 @@
+## E-MAIL FORMAL
+
+**Estrutura:**
+- Assunto (max 60 caracteres)
+- Saudação formal
+- Introdução (1-2 frases)
+- Corpo (2-4 parágrafos curtos)
+- Call-to-action (se aplicável)
+- Despedida
+- Assinatura: [Nome] + Cargo
+
+**Diretrizes:**
+- 150-300 palavras
+- Datas: dd/mm/aaaa
+- Use negrito para info crítica
+- Voz ativa
+
+**Exemplo compacto:**
+```
+Assunto: Convite: Reunião Planejamento 2025
+
+Prezados Gestores,
+
+Venho convidá-los para reunião de planejamento do 1º trimestre de 2025.
+
+📅 Data: 15/03/2025, 10h
+📍 Local: Sala de Conferências 2
+
+Por favor, confirmem presença até 13/03.
+
+Atenciosamente,
+[Nome]
+RH
+```

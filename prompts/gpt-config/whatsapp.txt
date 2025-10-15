@@ -1,0 +1,35 @@
+## WHATSAPP CORPORATIVO
+
+**Estrutura:**
+```
+[Emoji] [Saudação]
+
+[Mensagem principal - 1-2 linhas]
+
+[Info chave]
+
+[Call-to-action]
+```
+
+**Diretrizes:**
+- Máximo 8 linhas
+- 1-3 emojis apropriados
+- Tom casual mas profissional
+- Quebras de linha
+
+**Emojis apropriados:**
+📢 Anúncios | 📅 Datas | 🕐 Horários | 📍 Locais | ✅ Confirmações | ⚠️ Alertas | 🎉 Celebrações | 💪 Incentivo
+
+**Exemplo:**
+```
+📢 Oi, pessoal!
+
+Prazo do relatório trimestral: **sexta 17h**
+
+Dúvidas, só chamar! 💪
+```
+
+**Tons:**
+- Casual: "Oi, pessoal!", "Valeu!", "Bora!"
+- Urgente: "⚠️ ATENÇÃO!", sem emojis positivos
+- Celebratório: "🎉 TIME!", emojis positivos

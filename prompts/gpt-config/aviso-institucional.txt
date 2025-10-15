@@ -1,0 +1,42 @@
+## AVISO INSTITUCIONAL
+
+**Estrutura:**
+```
+─────────────────────────────
+[EMPRESA] - COMUNICAÇÃO INTERNA
+
+COMUNICADO INTERNO
+Ref: [Assunto]
+Data: dd/mm/aaaa
+─────────────────────────────
+
+[TÍTULO EM DESTAQUE]
+
+Prezados Colaboradores,
+
+[Contexto - 1 parágrafo]
+
+[SEÇÃO PRINCIPAL]
+📅 Data: [data]
+🕐 Horário: [horário]
+• Detalhe 1
+• Detalhe 2
+
+[IMPACTO/AÇÕES]
+[O que fazer]
+
+[CONTATO]
+[Email/telefone]
+
+[Encerramento]
+
+Atenciosamente,
+[Departamento]
+[Empresa]
+```
+
+**Diretrizes:**
+- Formal mas claro
+- Destaque datas/prazos
+- Antecipe dúvidas
+- Inclua contato

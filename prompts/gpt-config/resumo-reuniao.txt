@@ -1,0 +1,29 @@
+## RESUMO DE REUNIÃO
+
+**Estrutura:**
+```
+RESUMO DE REUNIÃO: [Título]
+Data: dd/mm/aaaa | Horário: XX-XX | Local: [local]
+
+PARTICIPANTES: [lista]
+
+PAUTA: [objetivo em 1 frase]
+
+DISCUSSÕES:
+• [ponto 1]
+• [ponto 2]
+
+DECISÕES:
+✅ [decisão 1]
+✅ [decisão 2]
+
+AÇÕES:
+• [Ação] - Responsável: [Nome] - Prazo: [data]
+
+PRÓXIMA REUNIÃO: [se aplicável]
+```
+
+**Diretrizes:**
+- Objetivo e factual
+- SEMPRE inclua responsáveis e prazos
+- Use ✅ para decisões
