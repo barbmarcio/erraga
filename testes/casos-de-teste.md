@@ -484,7 +484,7 @@ O Érrágá superou todas as expectativas nos testes realizados. Com 100% de apr
 - Escalável para múltiplos departamentos
 
 **Aplicação de IA Generativa:**
-Este projeto demonstra com sucesso a aplicação prática de IA Generativa (GPT-4) com técnicas de prompt engineering para resolver um problema real de negócio. A solução valida o potencial transformador da IA quando aplicada de forma estruturada e focada em necessidades específicas.
+Este projeto demonstra com sucesso a aplicação prática de IA Generativa (GPT-5) com técnicas de prompt engineering para resolver um problema real de negócio. A solução valida o potencial transformador da IA quando aplicada de forma estruturada e focada em necessidades específicas.
 
 **Próximos passos recomendados:**
 1. Implementação piloto em departamento de RH

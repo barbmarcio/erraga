@@ -102,7 +102,7 @@ Assistente baseado em IA Generativa que:
 
 | Tecnologia | Uso no Projeto | Versão/Plano |
 |------------|----------------|--------------|
-| **OpenAI GPT-4** | Motor de IA Generativa | Custom GPT |
+| **OpenAI GPT-5** | Motor de IA Generativa | Custom GPT |
 | **ChatGPT Custom GPTs** | Plataforma de criação do assistente | ChatGPT Plus |
 | **Prompt Engineering** | Técnica de instrução da IA | - |
 | **Wispr Flow** | Input por voz (opcional) | v1.2 |
@@ -126,7 +126,7 @@ Assistente baseado em IA Generativa que:
 
 ```
 ┌─────────────┐      ┌──────────────────────┐      ┌─────────────┐
-│   Usuário   │─────▶│   Custom GPT         │─────▶│   GPT-4     │
+│   Usuário   │─────▶│   Custom GPT         │─────▶│   GPT-5     │
 │             │      │   (Interface +       │      │   (Motor    │
 │  Input por  │      │    Prompts)          │      │    de IA)   │
 │  conversa   │      │                      │      │             │
@@ -161,8 +161,8 @@ Assistente baseado em IA Generativa que:
    - **Few-Shot Learning:** Exemplos incluídos em cada prompt
    - Veja todos em: [prompts/](prompts/)
 
-3. **Motor de IA (GPT-4)**
-   - Modelo: GPT-4 via Custom GPTs
+3. **Motor de IA (GPT-5)**
+   - Modelo: GPT-5 via Custom GPTs
    - Parâmetros otimizados (temperature ~0.7)
    - Processamento em 1-5 segundos
 
@@ -190,11 +190,11 @@ Assistente baseado em IA Generativa que:
 3. **GPT processa a solicitação**
    - System prompt ativa persona corporativa
    - Prompt específico do tipo de texto é aplicado
-   - GPT-4 analisa contexto e requisitos
+   - GPT-5 analisa contexto e requisitos
    - Processamento em 1-5 segundos
 
 4. **Geração do texto**
-   - GPT-4 aplica estrutura apropriada
+   - GPT-5 aplica estrutura apropriada
    - Adapta tom de voz conforme solicitado
    - Gera texto completo e formatado
    - Mantém consistência corporativa

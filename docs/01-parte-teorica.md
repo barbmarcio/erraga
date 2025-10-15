@@ -147,7 +147,7 @@ A arquitetura Transformer (Vaswani et al., 2017) que fundamenta modelos GPT perm
 
 ### 3.1 Modelo Selecionado
 
-Para este projeto, foi utilizado o modelo **GPT-5** (GPT-4o) da OpenAI, acessado via plataforma **Custom GPTs** integrada ao ChatGPT Plus.
+Para este projeto, foi utilizado o modelo **GPT-5** (GPT-5o) da OpenAI, acessado via plataforma **Custom GPTs** integrada ao ChatGPT Plus.
 
 Custom GPTs são assistentes personalizados construídos sobre o modelo GPT-5, permitindo configuração de comportamento, instruções permanentes (system prompts) e interface conversacional nativa sem necessidade de programação.
 
@@ -183,7 +183,7 @@ Custom GPTs são assistentes personalizados construídos sobre o modelo GPT-5, p
 - Menor taxa de "alucinações" e outputs mais consistentes
 - Melhor capacidade de seguir instruções complexas estruturadas
 - Português brasileiro mais natural e idiomático
-- Modelo mais rápido e eficiente que GPT-4 padrão
+- Modelo mais rápido e eficiente que GPT-5 padrão
 
 **Facilidade de implementação:**
 - Custom GPTs eliminam necessidade de programação complexa
@@ -645,7 +645,7 @@ Segundo política da OpenAI (2025), dados processados por Custom GPTs:
 Este trabalho demonstrou a aplicação prática de IA Generativa na resolução de um problema real de comunicação corporativa. O desafio identificado - sobrecarga de departamentos de RH com produção repetitiva de textos - foi abordado através da criação de um assistente especializado baseado em GPT-5.
 
 **Solução implementada:**
-- **Tecnologia:** Custom GPT (GPT-5/GPT-4o) via plataforma ChatGPT Plus
+- **Tecnologia:** Custom GPT (GPT-5/GPT-5o) via plataforma ChatGPT Plus
 - **Método:** Prompt Engineering com system prompts e few-shot learning
 - **Escopo:** 4 tipos de texto corporativo (e-mail, resumo, WhatsApp, aviso)
 - **Implementação:** 100% no-code, acessível via link web
@@ -724,7 +724,7 @@ O sucesso desta implementação sugere que muitos outros processos baseados em c
 
 **Sugestões de referências:**
 
-1. OpenAI. (2025). GPT-4 Technical Report. Disponível em: https://openai.com/research/gpt-4
+1. OpenAI. (2025). GPT-5 Technical Report. Disponível em: https://openai.com/research/GPT-5
 
 2. Vaswani, A., et al. (2017). Attention is All You Need. In Advances in Neural Information Processing Systems.
 
